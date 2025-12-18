@@ -11,10 +11,10 @@ What I implemented:
 - **Benchmarking**: `inference.py` benchmarks sequential transforms on CPU vs model inference on CPU/CUDA for multiple batch sizes and DataLoader settings.
 
 ## Expected Points
-**(1) Model architecture/design**: 3/3
-**(2) Loss function + motivation**: 2/2
-**(3) Early stopping + motivation**: 2/2
-**(4) 5 model outputs vs ground truth**: 1/1
-**(5) Benchmark on CPU and GPU/MPS**: 1/2 (?)
+- **(1) Model architecture/design**: 3/3
+- **(2) Loss function + motivation**: 2/2
+- **(3) Early stopping + motivation**: 2/2
+- **(4) 5 model outputs vs ground truth**: 1/1
+- **(5) Benchmark on CPU and GPU/MPS**: 1/2 (?)
 
 **Total expected**: **9/10**
